@@ -1,3 +1,5 @@
 Numeric estimation for limets
 Simple introduction of limits topic, object defination and steps to follow
 Add modules and f(x) funciton
+Generated x inputs, got the output from the function and created a limit convergence table
+Checking and proving tolerance
