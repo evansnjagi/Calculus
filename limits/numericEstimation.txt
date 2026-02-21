@@ -1,0 +1,3 @@
+Numeric estimation for limets
+Simple introduction of limits topic, object defination and steps to follow
+Add modules and f(x) funciton
